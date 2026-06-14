@@ -4,7 +4,7 @@
 
 ## Completed Tasks
 
-### Task 2 - Number Guessing Game
+### Task 1 - Number Guessing Game
 
 A Java console application where the user guesses a randomly generated number between 1 and 100.
 
@@ -16,7 +16,7 @@ A Java console application where the user guesses a randomly generated number be
 * Limited attempts
 * Higher/Lower hints
 
-### Task 3 - ATM Interface
+### Task 2 - ATM Interface
 
 A Java console application that simulates ATM operations.
 
