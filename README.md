@@ -1,15 +1,38 @@
 # Oasis Infobyte Java Development Internship
 
-## Task 2 - Number Guessing Game
-A Java console application where users guess a randomly generated number.
+## Intern Details
 
-## Task 3 - ATM Interface
-A Java console application that simulates ATM operations such as:
-- Balance Inquiry
-- Deposit
-- Withdraw
-- Transfer
-- Transaction History
+**Name:** Kanuganti Mokshith
 
-## Author
-Kanuganti Mokshith
+## Completed Tasks
+
+### Task 2 - Number Guessing Game
+
+A Java console application where the user guesses a randomly generated number between 1 and 100.
+
+**Features**
+
+* Random number generation
+* Multiple rounds
+* Score calculation
+* Limited attempts
+* Higher/Lower hints
+
+### Task 3 - ATM Interface
+
+A Java console application that simulates ATM operations.
+
+**Features**
+
+* Login Authentication
+* View Balance
+* Deposit Amount
+* Withdraw Amount
+* Transfer Amount
+* Transaction History
+
+## Technologies Used
+
+* Java
+* OOP Concepts
+* Collections Framework
